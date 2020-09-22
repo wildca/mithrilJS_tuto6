@@ -65,3 +65,4 @@ npm run build:analyze
 ├── config/environment/env.*      # Holding environment variables 
 └── config/webpack.*.js           # Webpack configuration
 ```
+test
